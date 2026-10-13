@@ -1,3 +1,92 @@
+## 📦 Repository Import & Preservation Record — 13 October 2026
+
+### 📌 About This Import
+
+This repository, **[AonzOG/Flowise-9291856](https://github.com/AonzOG/Flowise-9291856)**, was imported from the original **[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)** GitHub repository on **Tuesday, 13 October 2026 (Fiji Time)**.
+
+Flowise is an open-source, visual platform for building AI agents, chatbots, and LLM-powered workflows. The original upstream repository has been archived by its maintainers.
+
+This independent import preserves an identifiable snapshot of Flowise's source code and Git history, providing a reference point for future inspection, experimentation, modification, and development.
+
+The repository retains the original project's attribution, documentation, and licensing terms. It is not an official FlowiseAI release or an automatically synchronised upstream mirror.
+
+### 🔖 Original Repository and Import Details
+
+| Property | Details |
+|---|---|
+| **Original repository** | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) |
+| **Imported repository** | [AonzOG/Flowise-9291856](https://github.com/AonzOG/Flowise-9291856) |
+| **Repository owner** | AonzOG |
+| **Date imported** | 13 October 2026 |
+| **Default branch** | `main` |
+| **Upstream status** | Archived |
+| **Import type** | Independent GitHub repository |
+| **Original commit SHA** | `9291856d1ea4a4ceea9f8fef8ce14f4f6c81e8eb` |
+
+### 🕒 Last Original Upstream Commit at Import
+
+The `main` branch was imported at the following verified upstream commit:
+
+| Commit information | Details |
+|---|---|
+| **Full commit SHA** | `9291856d1ea4a4ceea9f8fef8ce14f4f6c81e8eb` |
+| **Short SHA** | `9291856` |
+| **Commit author** | Henry Heng |
+| **Commit message** | `Update README.md (#6728)` |
+| **Commit date (UTC)** | 13 August 2026, 12:38:19 |
+| **Commit date (Fiji)** | 14 August 2026, 00:38:19 |
+| **Parent commit** | `abe4a8601a058047b350c260676826e21dd14101` |
+| **Git tree SHA** | `ebc9f99171dd855f8127135dfde4adac366425c8` |
+
+**Original upstream commit:**
+
+https://github.com/FlowiseAI/Flowise/commit/9291856d1ea4a4ceea9f8fef8ce14f4f6c81e8eb
+
+**Corresponding commit in this repository:**
+
+https://github.com/AonzOG/Flowise-9291856/commit/9291856d1ea4a4ceea9f8fef8ce14f4f6c81e8eb
+
+The full commit SHA and Git tree SHA were verified to match the original upstream repository.
+
+### 🌿 Preserved Branches and Commit Identification
+
+The imported repository contains branches representing different lines of Flowise development.
+
+| Branch | Last recorded commit | Commit date (UTC) |
+|---|---|---|
+| `main` | `9291856` | 13 August 2026 |
+| `chatflow-data-leak` | `122f4db` | 10 March 2026 |
+
+The `chatflow-data-leak` branch retains the following commit:
+
+`122f4dbadcc5f53abc6eb634e6079973fc81421a`
+
+**Commit message:** `Merge branch 'main' into chatflow-data-leak`
+
+**Commit author:** christopherholland-workday
+
+These branches have distinct development histories. The `chatflow-data-leak` commit is not a replacement for the imported `main` branch commit. Both branch-head identifiers were verified against their corresponding original upstream branches.
+
+### 📜 Original Authors, Licensing and Attribution
+
+Flowise was developed by FlowiseAI and its contributors. Original copyright notices, documentation, contribution history, and applicable licensing conditions remain associated with the imported source code.
+
+The project's `LICENSE.md` specifies Apache License 2.0 for generally available source code, while designated enterprise components and explicitly identified files are subject to commercial licensing conditions. Third-party components remain subject to their respective licences.
+
+See [LICENSE.md](LICENSE.md) for the applicable terms and exceptions.
+
+### 🔄 Repository Continuity
+
+The original upstream commit `9291856d1ea4a4ceea9f8fef8ce14f4f6c81e8eb` remains the permanent reference for the imported `main` baseline.
+
+Subsequent changes, including README updates, maintenance, bug fixes, enhancements, or independent development, will generate new commits without changing the identity of the original imported revision.
+
+**Import recorded: 13 October 2026 — Fiji Time.**
+
+---
+
+*End of Import and Preservation Record.*
+
 <!-- markdownlint-disable MD030 -->
 
 <p align="center">
